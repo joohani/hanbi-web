@@ -1,0 +1,25 @@
+product_id,brand_id,category_id,model_name,spec_summary,description_text
+1,2,100,NSB Series,M1.0~M4.0 / 80cc,직선 진동 방식의 베스트셀러 나사공급기
+2,2,100,NJ / NJL Series,M2.0~M6.0 / 150cc,회전 드럼 방식을 채용한 다목적 나사공급기
+3,1,120,Sub Hopper,800cc~10000cc,장시간 작업을 위한 나사 대용량 보조 호퍼
+4,1,220,Han-bi Handy Unit,Customizing,나사 자동 압송 및 체결을 동시에 수행하는 핸디 유닛
+5,1,210,Shooting Feeder,Bolt/Nut/Rivet,피더와 체결기가 분리된 자동화 공급 시스템
+6,4,200,CL-Series,Low Torque,정밀 소형 나사 체결용 스테디셀러 드라이버
+7,4,200,BL-Series,Brushless Motor,카본 가루가 발생하지 않는 브러시리스 모터 드라이버
+8,7,200,DLV30/45/70,Standard Type,산업 현장에서 가장 널리 쓰이는 표준 델보 드라이버
+9,6,210,NX Series,High Precision,정밀 토크 제어가 가능한 AC 서보 너트런너
+10,9,230,U-Series,Oil Pulse,유압 펄스를 이용한 저반력 에어 렌치
+11,5,300,DI-9M-8,Digital Display,전동 드라이버 토크 세팅 및 검사용 디지털 측정기
+12,5,300,DI-1M-Ip,Impact Tool,임팩트 렌치 및 에어툴 토크 측정 가능
+13,1,310,Screw Counter SC-1,Digital Count,체결 횟수 카운트 및 NG/OK 판정 알림 기능
+14,3,400,FX-888D,Digital Temp,디지털 온도 제어 방식의 표준 납땜 인두기
+15,3,400,FX-951,High Performance,열회복력이 뛰어난 무연납 대응 인두기
+16,3,410,HU-200,Soldering Unit,자동화 로봇에 장착 가능한 솔더링 유닛
+17,1,500,V-Arm Series,Vertical Type,수직 작업 시 드라이버 무게와 반동을 상쇄하는 암
+18,1,500,P-Arm Series,Position Control,체결 위치를 감지하여 순서를 제어하는 포지션 암
+19,10,510,Vessel Bits,JIS/General,다양한 규격의 드라이버 비트 (십자, 일자, 톡스 등)
+20,1,600,RT-5000,5-50mm Width,다양한 폭의 테이프를 설정된 길이로 자동 절단
+21,10,600,RT-7000,6-60mm Width,필름 및 접착 테이프 대응 고성능 커팅기
+22,11,610,MR-Series,Standard Nipper,표준형 에어 니퍼 본체 (날 별도)
+23,11,610,MP-Series,Strong Type,강력한 절단력을 가진 증압형 에어 니퍼
+24,12,500,Spring Balancer,0.5~5.0kg,공구의 무게를 줄여주는 현수 장치

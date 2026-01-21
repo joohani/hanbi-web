@@ -1,0 +1,13 @@
+brand_id,brand_name,country,website_url,description
+1,HAN-BI,Korea,http://www.han-bi.co.kr,한비시스템 자체 제조 제품 및 자동화 유닛
+2,NEJICCO,Japan,http://www.nejicco.co.jp,나사공급기 전문 브랜드
+3,HAKKO,Japan,https://www.hakko.com,납땜 인두기 및 관련 설비 글로벌 표준
+4,HIOS,Japan,http://hios.com,전동 드라이버 및 토크 관리 전문
+5,CEDAR,Japan,http://www.sugisaki.co.jp,디지털 토크 측정기 및 테스터
+6,NITTO SEIKO,Japan,https://www.nittoseiko.co.jp,산업용 너트런너 및 체결 시스템
+7,DELVO,Japan,https://www.nitto-kohki.co.jp,NITTO KOHKI의 전동 드라이버 브랜드
+8,KILEWS,Taiwan,http://www.kilews.com,산업용 전동 드라이버 (가성비 우수)
+9,URYU,Japan,http://www.uryu.co.jp,에어툴 및 펄스 렌치 전문
+10,VESSEL,Japan,http://www.vessel.co.jp,비트, 에어니퍼, 정전기 제거 장치
+11,NILE,Japan,http://www.muromoto.co.jp,에어니퍼 및 절단 공구 전문
+12,SEHAN,Korea,http://www.sehan.co.kr,전동 드라이버 및 밸런서
